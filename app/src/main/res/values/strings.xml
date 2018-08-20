@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unzip</string>
+
+    --------------------------------- 解压---------------------------------\n\n
+    <string name="init_data">正在解压文件资源,请耐心等待…</string>
+    <string name="init_update_data">正在解压更新的文件资源,请耐心等待…</string>
+    <string name="check_data">正在校验文件资源,请耐心等待…</string>
+    <string name="init_data_waiting">正在初始化资源文件,请耐心等待…</string>
+    <string name="init_data_failed">初始化资源文件失败</string>
+</resources>
